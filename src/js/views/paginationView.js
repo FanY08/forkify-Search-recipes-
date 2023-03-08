@@ -1,4 +1,5 @@
 import icons from '../../img/icons.svg';
+
 import View from './View';
 
 //  import会在icons报错
